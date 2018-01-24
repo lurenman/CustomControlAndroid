@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/bt_click_one"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="练习1" />
+
+    <Button
+        android:id="@+id/bt_click_two"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="练习2" />
+    <Button
+        android:id="@+id/bt_click_three"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="练习3" />
+    <Button
+        android:id="@+id/bt_click_four"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="练习4" />
+
+</LinearLayout>
